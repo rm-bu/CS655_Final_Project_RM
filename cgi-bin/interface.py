@@ -39,6 +39,10 @@ print("""\n<form method = "post">
       <label for="html">1 Worker</label><br>
       <input type="radio" id="w2" name="worker_count" value="2">
       <label for="html">2 Workers</label><br>
+      <input type="radio" id="w3" name="worker_count" value="3">
+      <label for="html">3 Worker</label><br>
+      <input type="radio" id="w4" name="worker_count" value="4">
+      <label for="html">4 Workers</label><br>
       <input type = "submit">
     </p>
     </form>""")
